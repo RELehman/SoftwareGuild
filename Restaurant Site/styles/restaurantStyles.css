@@ -1,0 +1,54 @@
+body{
+    max-width: 900px;
+    margin: auto;
+    background-color: seashell;
+}
+
+header, footer{
+    background-color: #800000;
+    color: white;
+    text-align: center;
+    padding: 30px 10px 20px 10px;
+    margin: 0;
+    border: 0;
+}
+
+#carousel{
+    background-color: #CCCCCC;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+footer{
+    border-top: thin black solid;
+}
+
+h1{
+    font-size: 3em;
+    font-family: 'Cherry Cream Soda', cursive;
+}
+
+nav{
+    border-top: thin black solid;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+nav p{
+    display: inline;
+    padding: 10px;
+}
+
+nav a{
+    color: black;
+}
+
+nav a:visited{
+    color: darkred;
+}
+
+
+nav a:hover{
+    font-weight: bold;
+    text-decoration: none;
+}
